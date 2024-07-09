@@ -11,7 +11,7 @@ A container with a local rabbitmq instance is started locally to relay the repor
 The reports can significantly vary in size, complexity and intensity thus an API approach is not suitable.
 For each test running in a runner a new temporary queue is created and the shovel plugin is used to relay the messages to the main rabbitmq instance.
 
-# Installation
+# Installation:
 - Install docker 23.0.3+
 - Install Python 3.10+
 - Install pipenv 2024.0.1 or any other virtual environment manager
