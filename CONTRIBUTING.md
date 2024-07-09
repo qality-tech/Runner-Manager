@@ -10,7 +10,7 @@ Before making a contribution, please take the following steps:
 - Fork the project repository and prepare your proposed contribution.
 - Submit a pull request.
 
-NOTE: All contributors must have a contributor license agreement (CLA) on file with before their pull requests will be merged. Please review the contribution requirements and submit (or have your employer submit) the required CLA before submitting a pull request.
+NOTE: All contributors must read and agree with the (CLA) found in the file `CLA.md` found in the root of this project before they push any code or contribute via any communication channel. Pushing code, opening pull requests or any other action represents your agreement with the CLA.
 
 # Governance
 ## Roles
@@ -18,7 +18,7 @@ The project community consists of Contributors and Maintainers:
 
 A Contributor is anyone who submits a contribution to the project. (Contributions may include code, issues, comments, documentation, media, or any combination of the above.)
 A Maintainer is a Contributor who, by virtue of their contribution history, has been given write access to project repositories and may merge approved contributions.
-The Lead Maintainer is the project's interface with the QAlity Tech team. They are responsible for approving quarterly project reports and communicating on behalf of the project. The Lead Maintainer is elected by a vote of the Maintainers.
+The Lead Maintainer is the project's interface with the Qality Tech team. They are responsible for approving quarterly project reports and communicating on behalf of the project. The Lead Maintainer is elected by a vote of the Maintainers.
 The Owner is the person who started the project and is responsible for the project's vision and direction. Currently, the Owner is Qality Tech.
 
 ## Contribution Rules
