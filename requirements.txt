@@ -1,0 +1,5 @@
+pika
+python-dotenv
+requests
+retry
+docker
